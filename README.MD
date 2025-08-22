@@ -8,7 +8,7 @@ This project develops machine learning and deep learning models to classify Hilt
 - Deep learning approaches with ANN and Bidirectional LSTM
 - Detailed exploratory data analysis and visualization
 
-Key achievements:
+Achievements:
 - Achieved **~48% validation accuracy** with Logistic Regression
 - Minimal overfitting with errors typically within ±1 star of true ratings
 - Identified sentiment patterns across different hotel locations
@@ -144,4 +144,5 @@ Contributions are welcome! Please follow these steps:
 MIT License. See LICENSE file for details.
 
 ## Contact
+
 For inquiries, improvement or collaboration opportunities: [muthominicholus22@gmail.com]
