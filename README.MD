@@ -18,7 +18,7 @@ Achievements:
 
 ### Core Analysis
 - **Data Collection**: Scraped 17,538 reviews from 5 Hilton London hotels on TripAdvisor
-- **Text Preprocessing**: Tokenization, lemmatization, stopword removal, and custom filtering
+- **Text Preprocessing**: Tokenization, lemmatization, stopword removal and custom filtering
 - **Feature Engineering**: TF-IDF vectorization for reviews and summaries
 - **Class Balancing**: Strategic under-sampling to handle rating imbalance
 
@@ -145,4 +145,5 @@ MIT License. See LICENSE file for details.
 
 ## Contact
 
-For inquiries, improvement or collaboration opportunities: [muthominicholus22@gmail.com]
+For inquiries, improvement or collaboration opportunities: muthominicholus22@gmail.com
+
